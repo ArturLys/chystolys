@@ -1,1 +1,3 @@
-# chystolys
+# Chystolys
+
+![Diagram](images/diagram.png)
