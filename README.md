@@ -6,8 +6,7 @@
 <details>
   <summary>Email Receipt demo</summary>
   
-  ![Demo_resend](images/demo_resend.gif)
-</details>
+<img src="images/demo_resend.gif" width="40%"></details>
 
 ## Tech diagram
 
